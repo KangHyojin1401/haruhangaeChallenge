@@ -10,15 +10,12 @@
 4. 미션 수행은 간편하게 사진으로 인증
 5. 작고 쉬운 목표 달성을 통한 의지력 강화, 자존감 상승
 
-* * *
 ## 유즈케이스
 ![image](https://user-images.githubusercontent.com/61786235/103452439-ed3ed480-4d12-11eb-9f4c-f07de97d9a0d.png)
 
-* * *
 ## MVC 구조
 ![그림1](https://user-images.githubusercontent.com/61786235/103452525-fda37f00-4d13-11eb-9054-af0786abfefe.png)
 
-* * *
 ## 데이터베이스 설계
 ![image](https://user-images.githubusercontent.com/61786235/103452543-16ac3000-4d14-11eb-89c9-0099c511b88b.png)
 
@@ -33,13 +30,11 @@
 > Reward: 리워드 정보    
 > UserReward: 사용자가 획득했던 리워드 정보
 
-* * *
 ## 사용 기술 / API, 특이사항 등
  1. 포스트 작성 시 이미지 업로드 구현
  2. 포스트 작성 시 Naver Maps Open API를 통한 주소 등록 구현 (Web Dynamic Map)
  3. Mybatis 구현 - UserDAOIMPL
 
-* * *
 ## 세부 기능
 1. 로그인 / 회원 가입
     + 회원 정보가 없는 유저는 회원 가입이 가능, 유저는 로그인 후 하루한개를 이용할 수 있다.
@@ -68,7 +63,6 @@
 8. 마이페이지 기능
     + 회원 정보 확인, 수정, 탈퇴를 할 수 있다.
 
-* * *    
 ## 팀원 업무 분담
 동덕여자대학교 컴퓨터학과 18학번       
 >__강효진(팀장)__     
