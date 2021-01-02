@@ -75,14 +75,20 @@
  model: post     
   view: login, mission detail page, UI     
   controller: user, post     
+  
+  
 >__김재아__     
  model: post support     
   view: signUp, calendar     
   controller: calendar, reward     
+  
+  
 >__김혜연__     
  model: user     
   view: user page, menu     
-  controller: user, post     
+  controller: user, post  
+  
+  
 >__윤민선__     
  model: mission, caategory, reward     
   view: home, reward     
