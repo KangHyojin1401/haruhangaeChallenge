@@ -1,5 +1,5 @@
 # 하루한개
-[시연 영상](https://www.youtube.com/watch?v=Qzidb62VYWY)     
+[![하루한개 시연영상](http://img.youtube.com/vi/Qzidb62VYWY/0.jpg)](https://www.youtube.com/watch?v=Qzidb62VYWY) 
 
 하루에 한개씩 도전 습관 만들기!
 > 2020년 코로나로 인해 집에서 반복되는 생활로 우울감과 무력감을 느끼는 사람들이 증가하고 있다.   
@@ -11,26 +11,6 @@
 3. 15일 간의 짧은 기간 동안 행동 중심 목표를 통한 규칙적인 나만의 습관/ 루틴 완성
 4. 미션 수행은 간편하게 사진으로 인증
 5. 작고 쉬운 목표 달성을 통한 의지력 강화, 자존감 상승
-
-## 유즈케이스
-![image](https://user-images.githubusercontent.com/61786235/103452439-ed3ed480-4d12-11eb-9f4c-f07de97d9a0d.png)
-
-## MVC 구조
-![그림1](https://user-images.githubusercontent.com/61786235/103452525-fda37f00-4d13-11eb-9054-af0786abfefe.png)
-
-## 데이터베이스 설계
-![image](https://user-images.githubusercontent.com/61786235/103452543-16ac3000-4d14-11eb-89c9-0099c511b88b.png)
-
-### 테이블 소개
-> Member: 회원 정보    
-> Category: 카테고리 정보    
-> UserCategoryInfo: 사용자가 카테고리를 선택했던 정보    
-> Mission: 미션 정보    
-> Post: 사용자가 게시했던 인증글 정보    
-> Tag: 태그 정보    
-> PostTag: 게시글에서 사용한 태그 정보    
-> Reward: 리워드 정보    
-> UserReward: 사용자가 획득했던 리워드 정보
 
 ## 사용 기술 / API, 특이사항 등
  1. 포스트 작성 시 이미지 업로드 구현
